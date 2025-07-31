@@ -1,9 +1,5 @@
 
-Here’s a professional, GitHub-ready `README.md` file for your `ProductsApp` project:
 
----
-
-```markdown
 # 🛍️ ProductsApp
 
 A SwiftUI-based iOS app that displays a list of products fetched from a remote API. Built with modern `async/await` concurrency and follows the MVVM architecture.
@@ -24,7 +20,6 @@ A SwiftUI-based iOS app that displays a list of products fetched from a remote A
 
 The project uses **MVVM** (Model-View-ViewModel):
 
-```
 
 ProductsApp/
 ├── Models/
