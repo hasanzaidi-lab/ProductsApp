@@ -20,7 +20,7 @@ A SwiftUI-based iOS app that displays a list of products fetched from a remote A
 
 The project uses **MVVM** (Model-View-ViewModel):
 
-
+```
 ProductsApp/
 ├── Models/
 │   └── Product.swift
@@ -32,8 +32,7 @@ ProductsApp/
 │   └── NetworkManager.swift (WIP)
 └── Entry Point/
 └── ProductsAppApp.swift
-
-````
+```
 
 - **Model**: `Product.swift` represents the JSON data structure.
 - **ViewModel**: `ViewModel.swift` handles networking and publishes the product list.
@@ -110,18 +109,7 @@ Then press ⌘ + R to build and run.
 ## 👨‍💻 Author
 
 **Hasan Zaidi**
-[LinkedIn](https://www.linkedin.com/in/hasan-zaidi)
+[LinkedIn](https://www.linkedin.com/in/zaidihasan06)
 Lead iOS Engineer with 10+ years of experience in fintech, aviation, and e-commerce apps.
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-```
-
----
-
-Would you like me to generate a `LICENSE` file too or auto-fill your GitHub link and LinkedIn profile?
-```
